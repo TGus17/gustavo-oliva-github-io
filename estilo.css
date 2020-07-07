@@ -1,0 +1,69 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+
+/* Formatação do Cabeçalho */
+header#cabecalho {
+    height: 350px;
+    display: block;
+    width: 720px;
+}
+
+header#cabecalho h1 {
+    font-family: 'Bubblegum Sans', cursive;
+    color: blue;
+}
+
+header#cabecalho p {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+/* Formatação da Foto */
+header#cabecalho img#foto {
+    position: absolute;
+    top: 60px;
+    right: 50px;
+    border: 8px solid whitesmoke;
+    box-shadow: 1px 1px 4px;
+}
+
+/* Formatação do Menu */
+nav#menu {
+    display: block;
+}
+
+nav#menu h2 {
+    display: none;
+}
+
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -20px;
+    right: 50px;
+}
+
+nav#menu li {
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 1s;
+}
+
+nav#menu li:hover {
+    background-color: #606060;    
+}
+nav#menu a {
+    color: black;
+    text-decoration: none;
+}
+nav#menu a:hover {
+    color: #ffffff;
+}
+
+footer#rodape {
+    display: block;
+    text-align: center;
+    border-top: 1px solid #606060;
