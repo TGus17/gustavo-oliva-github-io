@@ -42,6 +42,10 @@ img.foto {
     margin: 20px 0px;
 }
 
+.text-inicial h2 {
+    background-color: rgb(51, 86, 95);
+}
+
 .text-inicial p {
     line-height: 30px;
     font-size: 15pt;
@@ -67,7 +71,7 @@ div.menu ul {
 
 div.menu li {
     display: inline-block;
-    background-color: rgb(142, 188, 199)4;
+    background-color: rgb(142, 188, 199);
     padding: 10px;
     margin: 2px;
     border-radius: 5%; 
@@ -85,6 +89,25 @@ div.menu a {
 }
 div.menu a:hover {
     color: #ffffff;
+}
+
+div.sobre p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 10px;
+    line-height: 20px;
+    text-indent: 30px;
+}
+
+.flamengo {
+    color: red;
+    background-color: black;
+}
+
+h2 {
+    background-color: rgb(142, 188, 199);
+    padding-left: 10px;
+}
 
 /*header.cabecalho {
     height: 350px;   
