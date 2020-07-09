@@ -27,7 +27,7 @@ img.foto {
     margin-top: 0px;
     padding-top: 0px;
     margin-left: 50px;
-    border: 3px ridge rgb(117, 165, 177);
+    border: 6px solid rgb(117, 165, 177);
 }
 
 .text-inicial {
@@ -100,17 +100,20 @@ div.sobre p {
     text-indent: 30px;
 }
 
-.flamengo {
-    color: red;
-    background-color: black;
-}
-
 h2 {
     background-color: rgb(117, 165, 177);
-    padding-left: 10px;
-    line-height: 40px;
+    text-align: center;
+    line-height: 30px;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+div.proj p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px;
+    line-height: 20px;
+    text-indent: 30px;
 }
 
 div.listas ul {
@@ -168,7 +171,7 @@ div.linkedin a {
 }
 
 div.github img {
-    width: 50%;
+    width: 55%;
     border-radius: 100%;
 }
 
@@ -178,8 +181,6 @@ div.github a {
     position: fixed;
     left: 1300px;
 }
-
-
 
 div.redes ul {
     position: absolute;
