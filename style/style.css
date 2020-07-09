@@ -24,8 +24,10 @@ img.foto {
     position: absolute;
     border-radius: 100%;
     width: 350px;
+    margin-top: 0px;
+    padding-top: 0px;
     margin-left: 50px;
-    border: 3px ridge rgb(142, 188, 199);
+    border: 3px ridge rgb(117, 165, 177);
 }
 
 .text-inicial {
@@ -60,18 +62,17 @@ div.menu h2 {
 }
 
 div.menu ul {
-    list-style: none;
     text-transform: uppercase;
     position: absolute;
     top: -5px;
     position: fixed;
-    background-color:rgb(142, 188, 199);
+    background-color:rgb(117, 165, 177);
     width: 100%;
 }
 
 div.menu li {
     display: inline-block;
-    background-color: rgb(142, 188, 199);
+    background-color: rgb(117, 165, 177);
     padding: 10px;
     margin: 2px;
     border-radius: 5%; 
@@ -84,7 +85,7 @@ div.menu li:hover {
     background-color: rgb(51, 86, 95);      
 }
 div.menu a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 div.menu a:hover {
@@ -105,48 +106,37 @@ div.sobre p {
 }
 
 h2 {
-    background-color: rgb(142, 188, 199);
+    background-color: rgb(117, 165, 177);
     padding-left: 10px;
+    line-height: 40px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-/*header.cabecalho {
-    height: 350px;   
+div.listas ul {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: square;
 }
 
-h1 {
-    font-family: 'Bubblegum Sans', cursive;
-    color: blue;
-    padding-left: 10px; 
-}
-.cabecalho h2 {
-    padding-left: 10px;
+div.listas li {
+    margin: 10px;
+    line-height: 15px;
 }
 
-p.cabecalho {
-    display: block;
-    width: 720px;
-    text-indent: 50px;
-    text-align: justify;
-    padding-left: 10px;    
+div.listas a {
+    color: white;
 }
-*/
-/* Formatação da Foto
-img {
-    position: relative;
-    top: 60px;
-    right: 50px;
+
+div.listas img {
     border-radius: 100%;
-}
-*/
-/* Formatação do Menu 
-
+    width: 2%;
 }
 
 footer.rodape {
     display: block;
     text-align: center;
-    border-top: 1px solid #606060;
-    background-color: rgb(180, 238, 228);
-    box-shadow: 2px 2px 6px;  
-    padding-bottom: 2px; 
-   */
+    border-top: 3px solid rgb(117, 165, 177);
+    padding: 5px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}
