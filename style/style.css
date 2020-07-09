@@ -7,10 +7,13 @@
     margin: 0px;
     padding: 0px;   
 }
+div.container {  
+    margin-top: 70px;
+}
 
 body {
     color: #ffffff;
-    background-color: rgb(32, 91, 180);
+    background-color: rgb(51, 86, 95);
 }
 
 header.inicial-content {
@@ -22,7 +25,7 @@ img.foto {
     border-radius: 100%;
     width: 350px;
     margin-left: 50px;
-    border: 3px ridge rgb(4, 70, 145);
+    border: 3px ridge rgb(142, 188, 199);
 }
 
 .text-inicial {
@@ -43,6 +46,45 @@ img.foto {
     line-height: 30px;
     font-size: 15pt;
 }
+
+div.menu {
+    display: block;    
+}
+
+div.menu h2 {
+    display: none;
+}
+
+div.menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -5px;
+    position: fixed;
+    background-color:rgb(142, 188, 199);
+    width: 100%;
+}
+
+div.menu li {
+    display: inline-block;
+    background-color: rgb(142, 188, 199)4;
+    padding: 10px;
+    margin: 2px;
+    border-radius: 5%; 
+    transition: background-color 1s;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.menu li:hover {
+    background-color: rgb(51, 86, 95);      
+}
+div.menu a {
+    color: black;
+    text-decoration: none;
+}
+div.menu a:hover {
+    color: #ffffff;
 
 /*header.cabecalho {
     height: 350px;   
@@ -74,42 +116,7 @@ img {
 }
 */
 /* Formatação do Menu 
-div.menu {
-    display: block;    
-}
 
-div.menu h2 {
-    display: none;
-}
-
-div.menu ul {
-    list-style: none;
-    text-transform: uppercase;
-    position: absolute;
-    top: -20px;
-    right: 50px;
-    position: fixed;
-}
-
-div.menu li {
-    display: inline-block;
-    background-color: #dddddd;
-    padding: 10px;
-    margin: 2px;
-    border: 1px solid rgb(37, 37, 41);
-    border-radius: 5%; 
-    transition: background-color 1s;
-}
-
-div.menu li:hover {
-    background-color: #606060;      
-}
-div.menu a {
-    color: black;
-    text-decoration: none;
-}
-div.menu a:hover {
-    color: #ffffff;
 }
 
 footer.rodape {
