@@ -132,6 +132,66 @@ div.listas img {
     width: 2%;
 }
 
+div.facebook img {
+    width: 15%;
+}
+
+div.facebook a {
+    position: absolute;
+    top: 2px;
+    position: fixed;
+    left: 1140px;
+}
+
+div.instagram img {
+    width: 18%;
+    border-radius: 100%;
+}
+
+div.instagram a {
+    position: absolute;
+    top: 5px;
+    position: fixed;
+    left: 1200px;
+}
+
+div.linkedin img {
+    width: 30%;
+    border-radius: 100%;
+}
+
+div.linkedin a {
+    position: absolute;
+    top: 5px;
+    position: fixed;
+    left: 1250px;
+}
+
+div.github img {
+    width: 50%;
+    border-radius: 100%;
+}
+
+div.github a {
+    position: absolute;
+    top: 8px;
+    position: fixed;
+    left: 1300px;
+}
+
+
+
+div.redes ul {
+    position: absolute;
+    top: -5px;
+    position: fixed;
+    left: 1000px;
+}
+
+div.redes img {
+    width: 10%;
+}
+
 footer.rodape {
     display: block;
     text-align: center;
