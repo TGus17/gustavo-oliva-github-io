@@ -1,5 +1,5 @@
 <h2>Esse repositório contém projetos que venho desenvolvendo no curso de desenvolvedor full stack da Trybe.</h2>
-
+<hr>
 <h3>1º Projeto:</h3>
 <strong>Trybe - Introdução ao HTML & CSS ✅</strong>
 <ul>
