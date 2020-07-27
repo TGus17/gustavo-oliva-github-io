@@ -15,6 +15,18 @@
 <li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto1-HTML/" target="_blank">Projeto Lessons Learned</a></li>
 </ul>
 
+<h3>3º Projeto:</h3>
+<strong>Projeto JavaScript ✅</strong>
+<ul>
+<li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto2-JS/" target="_blank">Projeto Playground Function</a></li>
+</ul>
+
+<h3>4º Projeto:</h3>
+<strong>Projeto HTML, CDD & JavaScript ✅</strong>
+<ul>
+<li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto3-Meme_Generator/" target="_blank">Projeto Playground Function</a></li>
+</ul>
+
 <hr>
 
 <p style="text-align="center">Desenvolvido por Gustavo Oliva | Turma 06 - Trybe | Jul/2020</p>
