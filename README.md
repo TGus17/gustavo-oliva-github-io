@@ -27,7 +27,19 @@
 <li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto3-Meme_Generator/" target="_blank">Projeto Meme Generator</a></li>
 </ul>
 
+<h3>5º Projeto:</h3>
+<strong>Projeto HTML, CSS & JavaScript ✅</strong>
+<ul>
+<li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto4-Art_Com_Pixel/" target="_blank">Projeto Art Com Pixel</a></li>
+</ul>
+
+<h3>6º Projeto:</h3>
+<strong>Projeto HTML, CSS & JavaScript ✅</strong>
+<ul>
+<li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto5-ToDo_List/" target="_blank">Projeto To Do List</a></li>
+</ul>
+
 <hr>
 
-<p style="text-align="center">Desenvolvido por Gustavo Oliva | Turma 06 - Trybe | Jul/2020</p>
+<p style="text-align="center">Desenvolvido por Gustavo Oliva | Turma 06 - Trybe | Ago/2020</p>
 
