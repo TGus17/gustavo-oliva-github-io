@@ -39,7 +39,12 @@
 <li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto5-ToDo_List/" target="_blank">Projeto To Do List</a></li>
 </ul>
 
+<h3>7º Projeto:</h3>
+<strong>Projeto HTML, CSS & JavaScript ✅</strong>
+<ul>
+<li><a href="https://tgus17.github.io/gustavo-oliva-github-io/Projeto6-Color_Guess/" target="_blank">Projeto Color Guess</a></li>
+</ul>
 <hr>
 
-<p style="text-align="center">Desenvolvido por Gustavo Oliva | Turma 06 - Trybe | Ago/2020</p>
+<p style="text-align = center">Desenvolvido por Gustavo Oliva | Turma 06 - Trybe | Ago/2020</p>
 
